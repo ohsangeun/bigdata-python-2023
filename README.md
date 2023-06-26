@@ -47,4 +47,8 @@
 - 파이썬 데이터 분석
     - numpy 기본
     - matplotlib
+
+## 8일차
+- 파이썬 데이터 분석
     - selenium
+    - beautifulSoup
